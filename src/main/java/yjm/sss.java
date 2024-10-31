@@ -1,5 +1,5 @@
 package yjm;
 
-public class kkk {
+public class sss {
 //	하이
 }
